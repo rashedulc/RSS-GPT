@@ -97,3 +97,15 @@ Append: [Musk, OpenAI set to clash in court over startup’s restructuring](http
 Append: [Microsoft's $80 Billion AI Surge: A Catalyst for Future Tech Growth](https://finance.yahoo.com/news/microsofts-80-billion-ai-surge-141723906.html?.tsrc=rss)
 append_entries: 4
 Finish: 2025-02-04 16:21:26.762977
+------------------------------------------------------
+Started: 2025-02-04 18:23:26.263844
+Existing_entries: 35
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [The World Has Changed Since Trump’s First Trade War. Other Countries Are Ready to Fight Back.](https://finance.yahoo.com/m/acc74485-1acf-3375-ab0c-b4852b93aa80/the-world-has-changed-since.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [AI agents may cause some finance jobs to ‘disappear’: Microsoft exec](https://www.cfodive.com/news/ai-agents-cause-finance-jobs-disappear-microsoft-exec/739122/?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-04 18:23:32.017469
