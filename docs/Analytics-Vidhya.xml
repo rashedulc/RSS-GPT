@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Analytics Vidhya</title>
+<link>https://www.analyticsvidhya.com/</link>
+
+<item>
+<title>Python Round Up Function</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/python-round-up-function/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/python-round-up-function/</guid>
+<content:encoded><![CDATA[
+
+<p>The Round Up feature serves as a mathematical utility that professionals across financial institutions and analytical backgrounds together with programmers employ. The function permits users to round figures upwards to predetermined quantity levels thus avoiding numerical underestimation. Businesses using Round Up find tremendous advantages for crucial calculations in budgeting and pricing and statistical work. In [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/python-round-up-function/">Python Round Up Function</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 19:46:51 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 19:46:51 +0000</pubDate>
+</item>
+<item>
+<title>8 Types of Chunking for RAG Systems</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/types-of-chunking-for-rag-systems/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/types-of-chunking-for-rag-systems/</guid>
+<content:encoded><![CDATA[
+
+<p>The easiest way to learn anything—whether it’s for academics or personal growth—is by breaking it down into smaller, more manageable chunks. Similarly, when you’re tackling a complex subject, it can feel overwhelming at first. However, by dividing it into bite-sized pieces, understanding becomes much easier. Even if it seems like a small concept already, it’s [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/types-of-chunking-for-rag-systems/">8 Types of Chunking for RAG Systems</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 16:54:36 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 16:54:36 +0000</pubDate>
+</item>
+<item>
+<title>AutoRAG: Optimizing RAG Pipelines with Open-Source AutoML</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/autorag/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/autorag/</guid>
+<content:encoded><![CDATA[
+
+<p>In recent months, Retrieval-Augmented Generation (RAG) has skyrocketed in popularity as a powerful technique for combining large language models with external knowledge. However, choosing the right RAG pipeline—indexing, embedding models, chunking method, question answering approach—can be daunting. With countless possible configurations, how can you be sure which pipeline is best for your data and your [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/autorag/">AutoRAG: Optimizing RAG Pipelines with Open-Source AutoML</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 16:00:21 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 16:00:21 +0000</pubDate>
+</item>
+<item>
+<title>Open Operator: The Open-Source Alternative to OpenAI’s Operator</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/open-operator/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/open-operator/</guid>
+<content:encoded><![CDATA[
+
+<p>Tired of tedious online tasks? Meet Open Operator—your AI-powered assistant for browser automation. Simply describe what you need in plain English, and it gets the job done—no coding required. Built on advanced NLP and AI, this open-source tool offers a practical alternative to solutions like OpenAI’s Operator. While OpenAI’s version relies on a closed model [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/open-operator/">Open Operator: The Open-Source Alternative to OpenAI&#8217;s Operator</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 15:27:56 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 15:27:56 +0000</pubDate>
+</item>
+<item>
+<title>Codestral 25.01 vs Qwen2.5-Coder-32B-Instruct: Who Codes Better?</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/codestral-25-01-vs-qwen2-5-coder-32b-instruct/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/codestral-25-01-vs-qwen2-5-coder-32b-instruct/</guid>
+<content:encoded><![CDATA[
+
+<p>The emergence of advanced AI language models has transformed the programming landscape, setting new standards in coding efficiency and quality. Two coding models popular today are Mistral’s Codestral and Alibaba Cloud’s Qwen2.5-Coder &#8211; which this article will compare. In this comparison of Codestral 25.01 vs Qwen2.5-Coder-32B-Instruct, we will evaluate their coding capabilities to determine their [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/codestral-25-01-vs-qwen2-5-coder-32b-instruct/">Codestral 25.01 vs Qwen2.5-Coder-32B-Instruct: Who Codes Better?</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 09:12:00 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 09:12:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI’s Next Agent is Out – Deep Research!</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/openai-deep-research/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/openai-deep-research/</guid>
+<content:encoded><![CDATA[
+
+<p>In a recent announcement from OpenAI, a new feature called Deep Research Mode has been introduced, promising to significantly enhance the way we approach complex research tasks. This advanced tool is set to support knowledge work by providing comprehensive, fully cited research papers that can be tailored to a wide range of applications. Let&#8217;s find [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/openai-deep-research/">OpenAI&#8217;s Next Agent is Out &#8211; Deep Research!</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Mon, 03 Feb 2025 09:02:25 +0000</pubDate>
+<pubDate>Mon, 03 Feb 2025 09:02:25 +0000</pubDate>
+</item>
+<item>
+<title>Is Qwen2.5-Max Better than DeepSeek-R1 and Kimi k1.5?</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/qwen2-5-max-vs-deepseek-r1-vs-kimi-k1-5-2/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/qwen2-5-max-vs-deepseek-r1-vs-kimi-k1-5-2/</guid>
+<content:encoded><![CDATA[
+
+<p>It&#8217;s Lunar New Year in China and the world is celebrating! Thanks to the launch of one amazing model after the other by Chinese companies. Alibaba too recently launched Qwen2.5-Max &#8211; a model that supersedes giants from OpenAI, DeepSeek &#38; Llama. Packed with advanced reasoning, and image &#38; video generation, this model is set to [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/qwen2-5-max-vs-deepseek-r1-vs-kimi-k1-5-2/">Is Qwen2.5-Max Better than DeepSeek-R1 and Kimi k1.5?</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 17:19:53 +0000</pubDate>
+<pubDate>Sun, 02 Feb 2025 17:19:53 +0000</pubDate>
+</item>
+<item>
+<title>Need AI for Your Sales Calls? Google “Ask For Me” Can Help!</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/google-ask-for-me/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/google-ask-for-me/</guid>
+<content:encoded><![CDATA[
+
+<p>Imagine, you sitting on the corner sipping a hot cup of tea as your phone automatically makes those endless sales on your behalf. Sounds too good to be true? Well not anymore &#8211; Google has just&#160; launched AI-powered &#8220;Ask For Me&#8221; to make business calls and the earliest access has been given to auto repairs [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/google-ask-for-me/">Need AI for Your Sales Calls? Google &#8220;Ask For Me&#8221; Can Help!</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 16:52:34 +0000</pubDate>
+<pubDate>Sun, 02 Feb 2025 16:52:34 +0000</pubDate>
+</item>
+<item>
+<title>Building a RAG System for Smart Decision-Making in Organizations</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/smart-decision-making-in-organizations/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/smart-decision-making-in-organizations/</guid>
+<content:encoded><![CDATA[
+
+<p>In today’s fast-paced business environment, organizations are inundated with data that drives decisions, optimizes operations, and maintains competitiveness. However, extracting actionable insights from this data remains a significant hurdle. A Retrieval-Augmented Generation (RAG) system, when integrated with Agentic AI, tackles this challenge by not only retrieving relevant information but also processing and delivering context-aware insights [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/smart-decision-making-in-organizations/">Building a RAG System for Smart Decision-Making in Organizations</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Sun, 02 Feb 2025 06:39:19 +0000</pubDate>
+<pubDate>Sun, 02 Feb 2025 06:39:19 +0000</pubDate>
+</item>
+<item>
+<title>Top 10 Generative AI Breakthroughs of Jan 2025: o3-mini, Deepseek-R1, and More</title>
+<link>https://www.analyticsvidhya.com/blog/2025/02/generative-ai-launches-of-january/</link>
+<guid>https://www.analyticsvidhya.com/blog/2025/02/generative-ai-launches-of-january/</guid>
+<content:encoded><![CDATA[
+
+<p>The last month has changed the baseline best for us from OpenAI’s models to Chinese models like DeepSeek-R1 and Qwen2.5-Max. But in an unexpected twist, with the release of o3-mini, OpenAI has gotten back on track in the AI race. With all of these recent developments and so many new models, it’s been hard to [&#8230;]</p>
+<p>The post <a href="https://www.analyticsvidhya.com/blog/2025/02/generative-ai-launches-of-january/">Top 10 Generative AI Breakthroughs of Jan 2025: o3-mini, Deepseek-R1, and More</a> appeared first on <a href="https://www.analyticsvidhya.com">Analytics Vidhya</a>.</p>
+]]></content:encoded>
+<pubDate>Sat, 01 Feb 2025 18:19:16 +0000</pubDate>
+<pubDate>Sat, 01 Feb 2025 18:19:16 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
