@@ -60,3 +60,17 @@ Append: [DeepSeek Just Exposed the Biggest Flaw of the Artificial Intelligence (
 Append: [Salesforce to cut more than 1,000 jobs while hiring](https://www.verdict.co.uk/salesforce-to-cut-1000-jobs-while-hiring/?.tsrc=rss)
 append_entries: 4
 Finish: 2025-02-04 10:18:19.801324
+------------------------------------------------------
+Started: 2025-02-04 12:34:11.951837
+Existing_entries: 26
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Alibaba Cloud integrates DeepSeek’s AI models](https://www.verdict.co.uk/alibaba-cloud-deepseeks-ai/?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft CEO Satya Nadella's $80 Billion Promise: What It Means for Nvidia and AI Stocks](https://www.fool.com/investing/2025/02/04/microsoft-ceo-satya-nadellas-80-billion-promise-wh/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=36d6560c-4bc6-42d7-8314-983910b01bcb&.tsrc=rss)
+Append: [This Week In Cloud AI - Revolutionizing Cybersecurity With AI-Powered Innovations](https://finance.yahoo.com/news/week-cloud-ai-revolutionizing-cybersecurity-120649446.html?.tsrc=rss)
+Append: [1 Wall Street Analyst Thinks This Artificial Intelligence (AI) Chip Stock Could Benefit From DeepSeek's Breakthrough](https://www.fool.com/investing/2025/02/04/1-wall-street-analyst-thinks-this-artificial-intel/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=fe769450-a883-4b2a-a504-7a19676a3828&.tsrc=rss)
+append_entries: 4
+Finish: 2025-02-04 12:34:17.445920
