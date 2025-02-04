@@ -122,3 +122,17 @@ Append: [Dow Jones Stocks: Apple, Nvidia Rally; Amazon Hits New High](https://fi
 Append: [Bill Gates thought he was “one mistake away from death” with Microsoft until the late 90s](https://finance.yahoo.com/news/bill-gates-thought-one-mistake-164846769.html?.tsrc=rss)
 append_entries: 3
 Finish: 2025-02-04 20:18:35.858497
+------------------------------------------------------
+Started: 2025-02-04 22:15:51.882936
+Existing_entries: 40
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Alphabet Revenue Misses Expectations. The Stock Is Down Sharply.](https://finance.yahoo.com/m/e88be967-65fb-3b90-a874-1d5b1c93906c/alphabet-revenue-misses.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Alphabet’s (NASDAQ:GOOGL) Q4 Earnings Results: Revenue In Line With Expectations But Stock Drops](https://finance.yahoo.com/news/alphabet-nasdaq-googl-q4-earnings-211338728.html?.tsrc=rss)
+Append: [Alphabet stock tumbles after cloud revenue miss, spending growth](https://finance.yahoo.com/news/alphabet-stock-tumbles-after-cloud-revenue-miss-spending-growth-210708696.html?.tsrc=rss)
+Append: [Judge says Elon Musk's claims of harm from OpenAI are a 'stretch' but welcomes possible trial](https://finance.yahoo.com/news/judge-says-elon-musks-claims-201644258.html?.tsrc=rss)
+append_entries: 4
+Finish: 2025-02-04 22:15:57.484037
