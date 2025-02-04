@@ -24,3 +24,12 @@ Existing_entries: 10
 Fetching from http://feeds.feedburner.com/AnalyticsVidhya
 append_entries: 0
 Finish: 2025-02-04 06:24:21.543797
+------------------------------------------------------
+Started: 2025-02-04 08:21:47.210529
+Existing_entries: 10
+Fetching from http://feeds.feedburner.com/AnalyticsVidhya
+Summarization failed, append the original article
+error: Connection error.
+Append: [DeepSeek-R1 vs DeepSeek-V3: Detailed Comparison](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
+append_entries: 1
+Finish: 2025-02-04 08:21:49.951667
