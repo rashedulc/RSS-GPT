@@ -33,3 +33,12 @@ error: Connection error.
 Append: [DeepSeek-R1 vs DeepSeek-V3: Detailed Comparison](https://www.analyticsvidhya.com/blog/2025/02/deepseek-r1-vs-deepseek-v3/)
 append_entries: 1
 Finish: 2025-02-04 08:21:49.951667
+------------------------------------------------------
+Started: 2025-02-04 10:18:19.809218
+Existing_entries: 11
+Fetching from http://feeds.feedburner.com/AnalyticsVidhya
+Summarization failed, append the original article
+error: Connection error.
+Append: [Is OpenAI’s o3-mini Better Than DeepSeek-R1?](https://www.analyticsvidhya.com/blog/2025/02/openai-o3-mini-vs-deepseek-r1/)
+append_entries: 1
+Finish: 2025-02-04 10:18:22.519281
