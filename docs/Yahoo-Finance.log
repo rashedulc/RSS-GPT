@@ -83,3 +83,17 @@ error: Connection error.
 Append: [Microsoft's Bill Gates issues this key reminder to Nvidia bulls](https://finance.yahoo.com/news/microsofts-bill-gates-issues-this-key-reminder-to-nvidia-bulls-125913525.html?.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-04 14:16:24.518188
+------------------------------------------------------
+Started: 2025-02-04 16:21:21.323309
+Existing_entries: 31
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Nvidia sell-off hasn't rocked this bull looking for a nearly 60% pop in the AI darling](https://finance.yahoo.com/news/nvidia-sell-off-hasnt-rocked-this-bull-looking-for-a-nearly-60-pop-in-the-ai-darling-155843344.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [DeepSeek Disrupts, Big Tech Responds](https://www.fool.com/investing/2025/02/04/deepseek-disrupts-big-tech-responds/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=bf0aa10e-18dd-4f88-8f93-c3acef8a4e55&.tsrc=rss)
+Append: [Musk, OpenAI set to clash in court over startup’s restructuring](https://finance.yahoo.com/news/musk-openai-set-clash-court-150000591.html?.tsrc=rss)
+Append: [Microsoft's $80 Billion AI Surge: A Catalyst for Future Tech Growth](https://finance.yahoo.com/news/microsofts-80-billion-ai-surge-141723906.html?.tsrc=rss)
+append_entries: 4
+Finish: 2025-02-04 16:21:26.762977
