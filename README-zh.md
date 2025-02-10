@@ -53,4 +53,3 @@
 <a href="https://www.buymeacoffee.com/yinan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 - https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US -> https://rashedulc.github.io/RSS-GPT/Yahoo-Finance.xml
-- http://feeds.feedburner.com/AnalyticsVidhya -> https://rashedulc.github.io/RSS-GPT/Analytics-Vidhya.xml
