@@ -284,3 +284,24 @@ error: Connection error.
 Append: [Elon Musk reportedly offers $97.4 billion for OpenAI, Sam Altman says 'no thank you'](https://finance.yahoo.com/news/elon-musk-reportedly-offers-974-billion-for-openai-sam-altman-says-no-thank-you-215634193.html?.tsrc=rss)
 append_entries: 8
 Finish: 2025-02-11 12:27:06.011983
+------------------------------------------------------
+Started: 2025-02-11 14:13:14.095182
+Existing_entries: 92
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Pegasystems (PEGA) Reports Q4: Everything You Need To Know Ahead Of Earnings](https://finance.yahoo.com/news/pegasystems-pega-reports-q4-everything-130509378.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Oracle's AI-Powered Cloud Transformation: A New Era of Growth](https://finance.yahoo.com/news/oracles-ai-powered-cloud-transformation-130201068.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [How Databricks Pounced On AI Opportunity Amid Snowflake, Palantir Rivalries](https://finance.yahoo.com/m/843415dd-2ab4-3359-993f-574acf9ff23c/how-databricks-pounced-on-ai.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Why the Federal Reserve could shock the markets this summer: Economist](https://finance.yahoo.com/news/why-the-federal-reserve-could-shock-the-markets-this-summer-economist-124411720.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Meta Stock Has Soared During Trump Presidency. How Zuckerberg’s Leaving Mag 7 Rivals Behind and 5 Other Things to Know Today.](https://finance.yahoo.com/m/4a9eedbb-05fb-37c4-8703-a0f4c2375139/meta-stock-has-soared-during.html?.tsrc=rss)
+append_entries: 5
+Finish: 2025-02-11 14:13:27.782700
