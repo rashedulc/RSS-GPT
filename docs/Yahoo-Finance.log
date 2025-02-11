@@ -320,3 +320,15 @@ error: Connection error.
 Append: [EDPR NA completes three more renewable projects for Microsoft](https://www.power-technology.com/news/edpr-na-microsoft-renewables/?.tsrc=rss)
 append_entries: 3
 Finish: 2025-02-11 16:18:09.183980
+------------------------------------------------------
+Started: 2025-02-11 18:16:57.167345
+Existing_entries: 100
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [EU Sets Out $200 Billion AI Spending Plan in Bid to Catch Up With U.S., China](https://finance.yahoo.com/m/c3f2bb03-8683-3585-95d8-35f2aa110f5e/eu-sets-out-%24200-billion-ai.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk-Led Group's $97.4 Billion Bid for OpenAI 'Not Competitive,' Wedbush Says](https://finance.yahoo.com/news/musk-led-group-apos-97-154040606.html?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-11 18:17:02.664063
