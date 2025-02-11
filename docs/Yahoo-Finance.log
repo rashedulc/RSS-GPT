@@ -254,3 +254,33 @@ error: Connection error.
 Append: [Zacks Investment Ideas feature highlights Amazon, Microsoft, Alphabet, Marvell and Broadcom](https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-063200514.html?.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-11 10:14:59.518341
+------------------------------------------------------
+Started: 2025-02-11 12:26:44.122660
+Existing_entries: 84
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Cloud AI Today - IP Fabric's Version 7 Enhances Network Insight and Security](https://finance.yahoo.com/news/cloud-ai-today-ip-fabrics-120757249.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [The most important number for the stock market right now: Morning Brief](https://finance.yahoo.com/news/the-most-important-number-for-the-stock-market-right-now-morning-brief-110038445.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [EU Pledges $200 Billion in AI Spending in Bid to Catch Up With U.S., China](https://finance.yahoo.com/m/c3f2bb03-8683-3585-95d8-35f2aa110f5e/eu-pledges-%24200-billion-in-ai.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Why Do AI Chatbots Have Such a Hard Time Admitting ‘I Don’t Know’?](https://finance.yahoo.com/m/6a9fe602-b4db-3711-8e03-d822a9240c5c/why-do-ai-chatbots-have-such.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [The Magnificent 7 Are So Last Year. Cash Cows Are the New Kings.](https://finance.yahoo.com/m/b0862464-2595-3995-af6c-1bc1b9d4d86b/the-magnificent-7-are-so-last.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk’s $97.4 Billion OpenAI Bid Piles Pressure on Altman](https://finance.yahoo.com/m/867df135-4867-31fc-9b8b-fd9e34e79a1f/musk%E2%80%99s-%2497.4-billion-openai.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [The Zacks Analyst Blog NVIDIA, Broadcom, Constellation Energy, Marvell Technology and Innodata](https://finance.yahoo.com/news/zacks-analyst-blog-nvidia-broadcom-084800719.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Elon Musk reportedly offers $97.4 billion for OpenAI, Sam Altman says 'no thank you'](https://finance.yahoo.com/news/elon-musk-reportedly-offers-974-billion-for-openai-sam-altman-says-no-thank-you-215634193.html?.tsrc=rss)
+append_entries: 8
+Finish: 2025-02-11 12:27:06.011983
