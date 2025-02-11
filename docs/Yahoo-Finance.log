@@ -245,3 +245,12 @@ Existing_entries: 83
 Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
 append_entries: 0
 Finish: 2025-02-11 08:17:39.105075
+------------------------------------------------------
+Started: 2025-02-11 10:14:56.449325
+Existing_entries: 83
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Zacks Investment Ideas feature highlights Amazon, Microsoft, Alphabet, Marvell and Broadcom](https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-063200514.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-11 10:14:59.518341
