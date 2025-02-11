@@ -347,3 +347,15 @@ error: Connection error.
 Append: [Anduril takes over Microsoft's $22 billion US Army headset program](https://ca.finance.yahoo.com/news/anduril-takes-over-microsofts-22-185213822.html?.tsrc=rss)
 append_entries: 3
 Finish: 2025-02-11 20:14:43.766160
+------------------------------------------------------
+Started: 2025-02-11 22:12:33.253133
+Existing_entries: 105
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft powers AI ambitions with 400 MW solar purchase](https://techcrunch.com/2025/02/11/microsoft-powers-ai-ambitions-with-400-mw-solar-purchase/?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [3 new reasons to be concerned about Magnificent 7 stocks](https://finance.yahoo.com/news/3-new-reasons-to-be-concerned-about-magnificent-7-stocks-200016877.html?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-11 22:12:38.636025
