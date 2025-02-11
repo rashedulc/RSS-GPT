@@ -332,3 +332,18 @@ error: Connection error.
 Append: [Musk-Led Group's $97.4 Billion Bid for OpenAI 'Not Competitive,' Wedbush Says](https://finance.yahoo.com/news/musk-led-group-apos-97-154040606.html?.tsrc=rss)
 append_entries: 2
 Finish: 2025-02-11 18:17:02.664063
+------------------------------------------------------
+Started: 2025-02-11 20:14:35.658170
+Existing_entries: 102
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [3 new reasons to dump Magnificent 7 stocks](https://finance.yahoo.com/news/3-new-reasons-to-dump-magnificent-7-stocks-200016898.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft Corporation (MSFT) Among 10 Unrivaled Stocks of the Next 5 Years](https://finance.yahoo.com/news/microsoft-corporation-msft-among-10-193318382.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Anduril takes over Microsoft's $22 billion US Army headset program](https://ca.finance.yahoo.com/news/anduril-takes-over-microsofts-22-185213822.html?.tsrc=rss)
+append_entries: 3
+Finish: 2025-02-11 20:14:43.766160
