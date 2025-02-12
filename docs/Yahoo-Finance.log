@@ -428,3 +428,15 @@ error: Connection error.
 Append: [Apollo Hospitals Enterprise Ltd (BOM:508869) Q3 2025 Earnings Call Highlights: Strong Revenue ...](https://finance.yahoo.com/news/apollo-hospitals-enterprise-ltd-bom-110021459.html?.tsrc=rss)
 append_entries: 5
 Finish: 2025-02-12 12:26:29.891744
+------------------------------------------------------
+Started: 2025-02-12 14:13:09.371430
+Existing_entries: 116
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Amazon Stock Tests Key Level After Slipping On Q4 Results. Is It A Buy?](https://finance.yahoo.com/m/8359ab21-f897-391c-b788-0226d96c51c1/amazon-stock-tests-key-level.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [AI Agents Are Everywhere…and Nowhere](https://finance.yahoo.com/m/81e9dba0-54eb-3106-9da3-ca14cad3f5ec/ai-agents-are-everywhere%E2%80%A6and.html?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-12 14:13:15.013666
