@@ -398,3 +398,12 @@ Existing_entries: 110
 Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
 append_entries: 0
 Finish: 2025-02-12 08:17:51.587488
+------------------------------------------------------
+Started: 2025-02-12 10:14:22.018876
+Existing_entries: 110
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [1 Small-Cap Stock Down 34% to Buy on the Dip](https://www.fool.com/investing/2025/02/12/1-small-cap-stock-down-34-to-buy-dip/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=3bf58196-0870-4bb2-8dc8-16f89941f507&.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-12 10:14:25.162966
