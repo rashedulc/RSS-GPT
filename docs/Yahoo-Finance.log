@@ -482,3 +482,15 @@ error: Connection error.
 Append: [Meta is winning over Wall Street while the rest of Big Tech struggles](https://finance.yahoo.com/news/meta-is-winning-over-wall-street-while-the-rest-of-big-tech-struggles-184135699.html?.tsrc=rss)
 append_entries: 3
 Finish: 2025-02-12 20:14:47.191761
+------------------------------------------------------
+Started: 2025-02-12 22:12:38.792493
+Existing_entries: 126
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft (MSFT) – U.S. Army & AI: Anduril Partnership Takes Defense to the Cloud](https://finance.yahoo.com/news/microsoft-msft-u-army-ai-205047719.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/02/12/chatgpt-everything-to-know-about-the-ai-chatbot/?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-12 22:12:44.142398
