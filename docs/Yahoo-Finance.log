@@ -368,3 +368,12 @@ error: Connection error.
 Append: [Here is Why Microsoft (MSFT) May Return 25% Within 12 Months](https://finance.yahoo.com/news/why-microsoft-msft-may-return-221436456.html?.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-12 01:03:14.623486
+------------------------------------------------------
+Started: 2025-02-12 02:42:30.761526
+Existing_entries: 108
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [2 No-Brainer Artificial Intelligence Stocks to Buy Right Now](https://www.fool.com/investing/2025/02/11/2-no-brainer-artificial-intelligence-stocks-to-buy/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=6864ecfc-e9bd-4b1d-9bdf-339782ec9118&.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-12 02:42:33.487748
