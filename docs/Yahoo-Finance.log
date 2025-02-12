@@ -440,3 +440,21 @@ error: Connection error.
 Append: [AI Agents Are Everywhere…and Nowhere](https://finance.yahoo.com/m/81e9dba0-54eb-3106-9da3-ca14cad3f5ec/ai-agents-are-everywhere%E2%80%A6and.html?.tsrc=rss)
 append_entries: 2
 Finish: 2025-02-12 14:13:15.013666
+------------------------------------------------------
+Started: 2025-02-12 16:17:13.511689
+Existing_entries: 118
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Anduril, Microsoft Expand Partnership on U.S. Army Augmented Reality System](https://finance.yahoo.com/news/anduril-microsoft-expand-partnership-u-155820087.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Nvidia Leads Magnificent Seven Stocks Lower; Tesla Rebounds From Heavy Losses](https://finance.yahoo.com/m/4205eaa9-f620-3a0b-a81a-0e82c7c9fd0b/nvidia-leads-magnificent.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Intel stock has gotten an unexpected boost from JD Vance](https://finance.yahoo.com/news/intel-stock-has-gotten-an-unexpected-boost-from-jd-vance-152901852.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Why Amazon's stock has surprising upsides](https://finance.yahoo.com/news/why-amazons-stock-has-surprising-upsides-144743389.html?.tsrc=rss)
+append_entries: 4
+Finish: 2025-02-12 16:17:24.039828
