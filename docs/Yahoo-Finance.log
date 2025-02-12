@@ -407,3 +407,24 @@ error: Connection error.
 Append: [1 Small-Cap Stock Down 34% to Buy on the Dip](https://www.fool.com/investing/2025/02/12/1-small-cap-stock-down-34-to-buy-dip/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=3bf58196-0870-4bb2-8dc8-16f89941f507&.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-12 10:14:25.162966
+------------------------------------------------------
+Started: 2025-02-12 12:26:16.549414
+Existing_entries: 111
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Is the Magnificent 7 trade in big trouble?](https://finance.yahoo.com/video/magnificent-7-trade-big-trouble-121036170.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [1 Must-See Quote for AI Stock Investors From Arm Holdings' CEO](https://www.fool.com/investing/2025/02/12/1-must-see-quote-from-arm-holdings-ceo-for-ai/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=2898c89f-441c-451d-bb7b-dc4d5ac6ea55&.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Did China's DeepSeek Just Crash and Burn President Trump's $500 Billion AI Stargate Project?](https://www.fool.com/investing/2025/02/12/did-chinas-deepseek-just-crash-and-burn-president/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=f170a13f-8dbd-421d-ac18-8664514faae5&.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Tesla's stock slide looks to be unrelenting](https://finance.yahoo.com/news/teslas-stock-slide-looks-to-be-unrelenting-111050162.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Apollo Hospitals Enterprise Ltd (BOM:508869) Q3 2025 Earnings Call Highlights: Strong Revenue ...](https://finance.yahoo.com/news/apollo-hospitals-enterprise-ltd-bom-110021459.html?.tsrc=rss)
+append_entries: 5
+Finish: 2025-02-12 12:26:29.891744
