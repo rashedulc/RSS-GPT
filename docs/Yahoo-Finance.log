@@ -359,3 +359,12 @@ error: Connection error.
 Append: [3 new reasons to be concerned about Magnificent 7 stocks](https://finance.yahoo.com/news/3-new-reasons-to-be-concerned-about-magnificent-7-stocks-200016877.html?.tsrc=rss)
 append_entries: 2
 Finish: 2025-02-11 22:12:38.636025
+------------------------------------------------------
+Started: 2025-02-12 01:03:12.037044
+Existing_entries: 107
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Here is Why Microsoft (MSFT) May Return 25% Within 12 Months](https://finance.yahoo.com/news/why-microsoft-msft-may-return-221436456.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-12 01:03:14.623486
