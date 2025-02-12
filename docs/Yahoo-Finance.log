@@ -458,3 +458,12 @@ error: Connection error.
 Append: [Why Amazon's stock has surprising upsides](https://finance.yahoo.com/news/why-amazons-stock-has-surprising-upsides-144743389.html?.tsrc=rss)
 append_entries: 4
 Finish: 2025-02-12 16:17:24.039828
+------------------------------------------------------
+Started: 2025-02-12 18:18:27.006153
+Existing_entries: 122
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft (MSFT): AI & Cloud Innovations Secure Market Leadership](https://finance.yahoo.com/news/microsoft-msft-ai-cloud-innovations-163533652.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-12 18:18:29.939870
