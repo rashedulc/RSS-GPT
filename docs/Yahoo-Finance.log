@@ -494,3 +494,12 @@ error: Connection error.
 Append: [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/02/12/chatgpt-everything-to-know-about-the-ai-chatbot/?.tsrc=rss)
 append_entries: 2
 Finish: 2025-02-12 22:12:44.142398
+------------------------------------------------------
+Started: 2025-02-13 01:03:36.488767
+Existing_entries: 128
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Reddit, Pinterest, Snap: The hidden AI players worth watching](https://finance.yahoo.com/video/reddit-pinterest-snap-hidden-ai-233000089.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-13 01:03:39.458995
