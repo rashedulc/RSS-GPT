@@ -575,3 +575,15 @@ error: Connection error.
 Append: [Congress Member Josh Gottheimer Dumps Nvidia, Microsoft, Loads Up On Tesla Stocks Instead](https://finance.yahoo.com/news/congress-member-josh-gottheimer-dumps-123038419.html?.tsrc=rss)
 append_entries: 3
 Finish: 2025-02-13 14:13:14.667965
+------------------------------------------------------
+Started: 2025-02-13 16:17:25.495107
+Existing_entries: 139
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft Corporation (MSFT): Among Lee Munder Capital Group’s Top Stock Picks](https://finance.yahoo.com/news/microsoft-corporation-msft-among-lee-155531841.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk will stop $97.4 billion OpenAI bid if board stops for-profit switch](https://finance.yahoo.com/news/musk-will-stop-974-billion-openai-bid-if-board-stops-for-profit-switch-151111667.html?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-13 16:17:31.136980
