@@ -560,3 +560,18 @@ error: Connection error.
 Append: [DoubleLine Asks Whether Microsoft Debt Is Safer Than Treasuries](https://finance.yahoo.com/news/doubleline-asks-whether-microsoft-debt-103000879.html?.tsrc=rss)
 append_entries: 4
 Finish: 2025-02-13 12:26:39.535817
+------------------------------------------------------
+Started: 2025-02-13 14:13:06.348485
+Existing_entries: 136
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk Says He Will Pull Bid if OpenAI Remains a Nonprofit](https://www.wsj.com/tech/musk-to-withdraw-bid-if-openai-remains-a-nonprofit-3bfebe67?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [WSP and Microsoft Partnering On Digitalization of AEC industry; National Bank Comments on WSP's Strategic 2027 Estimated Targets](https://finance.yahoo.com/news/wsp-microsoft-partnering-digitalization-aec-125429600.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Congress Member Josh Gottheimer Dumps Nvidia, Microsoft, Loads Up On Tesla Stocks Instead](https://finance.yahoo.com/news/congress-member-josh-gottheimer-dumps-123038419.html?.tsrc=rss)
+append_entries: 3
+Finish: 2025-02-13 14:13:14.667965
