@@ -596,3 +596,18 @@ error: Connection error.
 Append: [Musk Says He Will Pull Bid if OpenAI Remains a Nonprofit](https://finance.yahoo.com/m/d8a0b4f9-dd70-3f50-bcb2-839e4471d6a3/musk-says-he-will-pull-bid-if.html?.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-13 18:18:49.625635
+------------------------------------------------------
+Started: 2025-02-13 20:14:38.162337
+Existing_entries: 142
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Bill Gates Has A Soft Spot For Intel, But Says The Chip Giant Has Lost Its Way — Questions Whether The Company Can Recover After CEO Exit And Falling Behind In AI](https://finance.yahoo.com/news/bill-gates-soft-spot-intel-193044225.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Snowflake Rises 22% Year to Date: Buy, Sell or Hold the Stock?](https://finance.yahoo.com/news/snowflake-rises-22-date-buy-172800333.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk to Withdraw $97.4B OpenAI Offer if ChatGPT Maker Stays Nonprofit](https://www.investopedia.com/musk-to-withdraw-openai-offer-if-chatgpt-maker-stays-nonprofit-11679225?.tsrc=rss)
+append_entries: 3
+Finish: 2025-02-13 20:14:46.358665
