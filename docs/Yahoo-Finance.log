@@ -587,3 +587,12 @@ error: Connection error.
 Append: [Musk will stop $97.4 billion OpenAI bid if board stops for-profit switch](https://finance.yahoo.com/news/musk-will-stop-974-billion-openai-bid-if-board-stops-for-profit-switch-151111667.html?.tsrc=rss)
 append_entries: 2
 Finish: 2025-02-13 16:17:31.136980
+------------------------------------------------------
+Started: 2025-02-13 18:18:46.646201
+Existing_entries: 141
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Musk Says He Will Pull Bid if OpenAI Remains a Nonprofit](https://finance.yahoo.com/m/d8a0b4f9-dd70-3f50-bcb2-839e4471d6a3/musk-says-he-will-pull-bid-if.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-13 18:18:49.625635
