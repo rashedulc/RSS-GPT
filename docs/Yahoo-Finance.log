@@ -644,3 +644,12 @@ error: Connection error.
 Append: [Microsoft Corporation (MSFT) and WSP Forge $1B AI Partnership to Transform AEC Industry](https://finance.yahoo.com/news/microsoft-corporation-msft-wsp-forge-032937634.html?.tsrc=rss)
 append_entries: 1
 Finish: 2025-02-14 04:16:28.381702
+------------------------------------------------------
+Started: 2025-02-14 05:34:43.602824
+Existing_entries: 148
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Apple and Google Restore TikTok to Mobile App Stores](https://finance.yahoo.com/m/9682c8f9-3d55-338f-98f6-4d8597205a6a/apple-and-google-restore.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-14 05:34:46.243276
