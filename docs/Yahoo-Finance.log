@@ -617,3 +617,15 @@ Existing_entries: 145
 Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
 append_entries: 0
 Finish: 2025-02-13 22:12:33.673170
+------------------------------------------------------
+Started: 2025-02-14 01:03:20.443337
+Existing_entries: 145
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Meta Platforms Raises Dividend by 5% as It Increases Overall Capital Spending](https://finance.yahoo.com/m/fce5065b-c358-3d58-b3bb-2d53a2cf55f6/meta-platforms-raises.html?.tsrc=rss)
+Summarization failed, append the original article
+error: Connection error.
+Append: [Is Microsoft Corporation (MSFT) the Best Major Stock to Buy According to Hedge Funds?](https://finance.yahoo.com/news/microsoft-corporation-msft-best-major-224043108.html?.tsrc=rss)
+append_entries: 2
+Finish: 2025-02-14 01:03:25.859987
