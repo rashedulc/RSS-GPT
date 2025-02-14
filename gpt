@@ -47,19 +47,66 @@ def fetch_feed(url, log_file):
         else:
             with open(log_file, 'a') as f:
                 f.write(f"Fetch error: {response.status_code}\n")
+            print(f"Fetch error: {response.status_code}")
             return {'feed': None, 'status': response.status_code}
     except requests.RequestException as e:
         with open(log_file, 'a') as f:
             f.write(f"Fetch error: {e}\n")
+        print(f"Fetch error: {e}")
         return {'feed': None, 'status': 'failed'}
 
+def fetch_feed(url, log_file):
+    feed = None
+    response = None
+    headers = {}
+    try:
+        ua = UserAgent()
+        headers['User-Agent'] = ua.random.strip()
+        response = requests.get(url, headers=headers, timeout=30)
+        if response.status_code == 200:
+            feed = feedparser.parse(response.text)
+            return {'feed': feed, 'status': 'success'}
+        else:
+            with open(log_file, 'a') as f:
+                f.write(f"Fetch error: {response.status_code}\n")
+            print(f"Fetch error: {response.status_code}")
+            return {'feed': None, 'status': response.status_code}
+    except requests.RequestException as e:
+        with open(log_file, 'a') as f:
+            f.write(f"Fetch error: {e}\n")
+        print(f"Fetch error: {e}")
+        return {'feed': None, 'status': 'failed'}
 def generate_untitled(entry):
     try: return entry.title
     except: 
         try: return entry.article[:50]
         except: return entry.link
 
-
+def gpt_summary(query, model, language):
+    messages = [
+        {"role": "user", "content": query},
+        {"role": "assistant", "content": f"Please summarize this article in {language} language, first extract {keyword_length} keywords, output in the same line, then line break, write a summary in {summary_length} words."}
+    ]
+    try:
+        if not OPENAI_PROXY:
+            client = OpenAI(
+                api_key=OPENAI_API_KEY,
+                base_url=OPENAI_BASE_URL,
+            )
+        else:
+            client = OpenAI(
+                api_key=OPENAI_API_KEY,
+                base_url=OPENAI_BASE_URL,
+                http_client=httpx.Client(proxy=OPENAI_PROXY),
+            )
+        completion = client.chat.completions.create(
+            model=model,
+            messages=messages,
+        )
+        return completion.choices[0].message.content
+    except Exception as e:
+        print(f"Summarization error: {e}")
+        raise e
 def clean_html(html_content):
     """
     This function is used to clean the HTML content.
