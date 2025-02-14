@@ -635,3 +635,12 @@ Existing_entries: 147
 Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
 append_entries: 0
 Finish: 2025-02-14 02:43:00.015208
+------------------------------------------------------
+Started: 2025-02-14 04:16:25.697533
+Existing_entries: 147
+Fetching from https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US
+Summarization failed, append the original article
+error: Connection error.
+Append: [Microsoft Corporation (MSFT) and WSP Forge $1B AI Partnership to Transform AEC Industry](https://finance.yahoo.com/news/microsoft-corporation-msft-wsp-forge-032937634.html?.tsrc=rss)
+append_entries: 1
+Finish: 2025-02-14 04:16:28.381702
