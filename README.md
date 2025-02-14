@@ -55,3 +55,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
 - https://feeds.finance.yahoo.com/rss/2.0/headline?s=msft&region=US&lang=en-US -> https://rashedulc.github.io/RSS-GPT/Yahoo-Finance.xml
+- https://techcrunch.com/tag/artificial-intelligence/feed/ -> https://rashedulc.github.io/RSS-GPT/TechCrunch.xml
